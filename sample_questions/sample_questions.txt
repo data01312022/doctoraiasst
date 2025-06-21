@@ -1,0 +1,34 @@
+Patient Information Retrieval
+1.	Show me the details for patient ID P003.
+2.	Who is the patient P017? What type of cancer does he have?
+3.	What is the location and age of patient P011?
+4.	Does patient P006 have any known genetic variants?
+5.	Fetch the full record for patient P009 including imaging.
+
+Diagnosis & Stage
+6.	What is the latest diagnosis report for patient P014?
+7.	What stage of cancer is patient P021 diagnosed with?
+8.	How confident are we about the diagnosis for P008?
+9.	Explain the rationale behind the diagnosis for patient P012.
+10.	Does patient P025 have a stage I or stage II cancer?
+ 
+Clinical Trial Search (via Google/ClinicalTrials.gov)
+11.	Find clinical trials for lung cancer.
+12.	What will be the clinical trials for patient P017?
+13.	Are there any new trials for glioblastoma in India?
+14.	Suggest clinical trials for P005 based on their diagnosis.
+15.	List top 5 trials from ClinicalTrials.gov for HER2+ breast cancer.
+ 
+Treatment Planning (NCCN Guidelines Based)
+16.	What is the recommended NCCN treatment for patient P001?
+17.	Suggest treatment options for Stage III breast cancer per NCCN.
+18.	Based on NCCN, what is the preferred first-line therapy for P003?
+19.	Show the NCCN guidelines for patient id P018.
+20.	What is the suggested approach for ovarian cancer (Stage III) for patient P009?
+ 
+ Multifunctional / Chained Queries
+21.	Retrieve patient P004 details, current diagnosis, and treatment recommeation.
+22.	Check diagnosis for P010 and suggest matching clinical trials.
+23. 	Get NCCN treatment plan and clinical trials for P019 with details summary.
+24.	Provide imaging, genetic markers, and diagnosis summary for P019.
+25. 	Explain the reasoning for diagnosis of P023 and recommend NCCN-based therapy
