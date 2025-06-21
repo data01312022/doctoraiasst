@@ -1,4 +1,4 @@
-# Doctor AI Agent  
+# Doctor AI Agents  
 **Patient-Centric Clinical and Disease Diagnosis with Treatment Optimization**
 
 ## Inspiration
@@ -13,16 +13,17 @@ Doctor AI Agent was born from the need to support oncologists in making faster, 
 
 ## How We Built It
 **Tech Stack:**
-- GCP: Vertex AI, BigQuery, Healthcare API, Cloud Storage
-- LLMs: Med-PaLM 2, BioGPT, GPT-4 + RAG
-- Agents: Built using LangChain, Agent Development Kits, Vertex AI
+- GCP: Vertex AI, BigQuery, Healthcare API, Cloud Storage, Cloud Run, Python
+- LLMs: Gemini-2.0-flash-001 and RAG
+- Agents: Built using Agent Development Kits (ADK's),Vertex AI,LangChain
 - Data: FHIR, DICOM, VCF (genomics), HL7
-- UI: Streamlit App with Doctor Mode
+- UI: ADK's + Cloud Run with Doctor Mode
 **Agents:**
-- `DataAgent`: Validates and processes patient data
-- `DiagnosisAgent`: Infers conditions
-- `TreatmentPlannerAgent`: Suggests treatment regimens
-- `TrialMatcherAgent`: Matches trials
+- `Patient Data Agent`: Validates and processes patient data
+- `Diagnosis Agent`: Generates a probable diagnosis based on the patient’s symptoms, age, gender, and clinical features using LLM 
+- `Treatment Planner Agent`: Suggests treatment regimens using NCCN
+- `Clinical Trial Matcher Agent`: Searches local/global clinical trial registries from ClinicalTrials.gov to find matching trials for eligible patients.
+- `explainable Agent`: Uses the MedPaLM (or similar) model to generate citation-backed, patient-friendly and doctor-readable explanations for the diagnosis and treatment
 
 ##  Challenges
 | Problem | Resolution |
@@ -44,9 +45,12 @@ Doctor AI Agent was born from the need to support oncologists in making faster, 
 - RAG makes LLMs more factual and trusted
 
 ## What’s Next
-- Expansion to cardiology & rare diseases
-- Speech-based input for real-time consultation
-- Digital twins for outcome simulation
+- Integrate with genomics platforms- Support personalized therapies based on mutations, gene panels, and biomarkers
+- Speech-based input for real-time consultation- Deploy as a voice assistant in outpatient or surgical settings
+- Regulatory Readiness and HIPAA/GDPR Compliance
+- Provide doctors and patients with traceable rationale for every AI suggestion including scientific citations, NCCN cross-references, trial inclusion/exclusion reasons
 - Clinical pilot deployment and regulatory pathways
 
+## Our Goal
+- Empower every physician with a safe, explainable, and personalized AI assistant – built for real-world healthcare
 
