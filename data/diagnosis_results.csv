@@ -1,0 +1,176 @@
+tient_id": "P023",
+  "patient_name": "Steve Rogers",
+  "diagnosis": "Leukemia (AML)",
+  "stage": "Advanced",
+  "confidence": "0.89",
+  "rationale": "Diagnosis of Leukemia (AML) confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P025",
+  "patient_name": "Arjun Das",
+  "diagnosis": "Bladder Cancer",
+  "stage": "Stage I",
+  "confidence": "0.86",
+  "rationale": "Diagnosis of Bladder Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P020",
+  "patient_name": "Emily Wang",
+  "diagnosis": "Melanoma",
+  "stage": "Stage I",
+  "confidence": "0.92",
+  "rationale": "Diagnosis of Melanoma confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P005",
+  "patient_name": "Robert Green",
+  "diagnosis": "Prostate Cancer",
+  "stage": "Stage I",
+  "confidence": "0.95",
+  "rationale": "Diagnosis of Prostate Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P014",
+  "patient_name": "Daniel White",
+  "diagnosis": "Prostate Cancer",
+  "stage": "Stage I",
+  "confidence": "0.85",
+  "rationale": "Diagnosis of Prostate Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P001",
+  "patient_name": "Anita Sharma",
+  "diagnosis": "Breast Cancer",
+  "stage": "Stage II",
+  "confidence": "0.96",
+  "rationale": "Diagnosis of Breast Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P016",
+  "patient_name": "Meena Joshi",
+  "diagnosis": "Breast Cancer",
+  "stage": "Stage II",
+  "confidence": "0.93",
+  "rationale": "Diagnosis of Breast Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P002",
+  "patient_name": "Rita Desai",
+  "diagnosis": "Breast Cancer",
+  "stage": "Stage II",
+  "confidence": "0.91",
+  "rationale": "Diagnosis of Breast Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P006",
+  "patient_name": "Neha Mehta",
+  "diagnosis": "Breast Cancer",
+  "stage": "Stage II",
+  "confidence": "0.98",
+  "rationale": "Diagnosis of Breast Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P011",
+  "patient_name": "Priya Nair",
+  "diagnosis": "Breast Cancer",
+  "stage": "Stage II",
+  "confidence": "0.99",
+  "rationale": "Diagnosis of Breast Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P022",
+  "patient_name": "Divya Kapoor",
+  "diagnosis": "Cervical Cancer",
+  "stage": "Stage II",
+  "confidence": "0.97",
+  "rationale": "Diagnosis of Cervical Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P012",
+  "patient_name": "Maria Garcia",
+  "diagnosis": "Colorectal Cancer",
+  "stage": "Stage II",
+  "confidence": "0.9",
+  "rationale": "Diagnosis of Colorectal Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P004",
+  "patient_name": "James Brown",
+  "diagnosis": "Colorectal Cancer",
+  "stage": "Stage II",
+  "confidence": "0.95",
+  "rationale": "Diagnosis of Colorectal Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P015",
+  "patient_name": "Rahul Khanna",
+  "diagnosis": "Head and Neck Cancer",
+  "stage": "Stage II",
+  "confidence": "0.93",
+  "rationale": "Diagnosis of Head and Neck Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P024",
+  "patient_name": "Sneha Iyer",
+  "diagnosis": "Multiple Myeloma",
+  "stage": "Stage II",
+  "confidence": "0.86",
+  "rationale": "Diagnosis of Multiple Myeloma confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P021",
+  "patient_name": "Olivia Martinez",
+  "diagnosis": "Esophageal Cancer",
+  "stage": "Stage III",
+  "confidence": "0.87",
+  "rationale": "Diagnosis of Esophageal Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P018",
+  "patient_name": "Rajiv Saxena",
+  "diagnosis": "Liver Cancer",
+  "stage": "Stage III",
+  "confidence": "0.99",
+  "rationale": "Diagnosis of Liver Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P013",
+  "patient_name": "Akash Yadav",
+  "diagnosis": "Lung Cancer",
+  "stage": "Stage III",
+  "confidence": "0.9",
+  "rationale": "Diagnosis of Lung Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P019",
+  "patient_name": "Aarav Jain",
+  "diagnosis": "Lung Cancer",
+  "stage": "Stage III",
+  "confidence": "0.86",
+  "rationale": "Diagnosis of Lung Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P008",
+  "patient_name": "Liam Johnson",
+  "diagnosis": "Lung Cancer",
+  "stage": "Stage III",
+  "confidence": "0.98",
+  "rationale": "Diagnosis of Lung Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P003",
+  "patient_name": "Ravi Patel",
+  "diagnosis": "Lung Cancer",
+  "stage": "Stage III",
+  "confidence": "0.86",
+  "rationale": "Diagnosis of Lung Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P009",
+  "patient_name": "Sophia Lee",
+  "diagnosis": "Ovarian Cancer",
+  "stage": "Stage III",
+  "confidence": "0.89",
+  "rationale": "Diagnosis of Ovarian Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P010",
+  "patient_name": "Alan Smith",
+  "diagnosis": "Glioblastoma",
+  "stage": "Stage IV",
+  "confidence": "0.94",
+  "rationale": "Diagnosis of Glioblastoma confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P017",
+  "patient_name": "Patrick Lee",
+  "diagnosis": "Pancreatic Cancer",
+  "stage": "Stage IV",
+  "confidence": "0.97",
+  "rationale": "Diagnosis of Pancreatic Cancer confirmed using clinical indicators, imaging, and lab results."
+}, {
+  "patient_id": "P007",
+  "patient_name": "Sonia Arora",
+  "diagnosis": "Pancreatic Cancer",
+  "stage": "Stage IV",
+  "confidence": "0.89",
+  "rationale": "Diagnosis of Pancreatic Cancer confirmed using clinical indicators, imaging, and lab results."
+}]
+

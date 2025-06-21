@@ -1,0 +1,27 @@
+patient_id,patient_name,age,gender,location,country,diagnosis,genetic_variants,imaging_path
+P001,Anita Sharma,52,Female,Mumbai,India,Breast Cancer,BRCA1,gs://med-img/P001_mammo.png
+P002,Rita Desai,48,Female,Delhi,India,Breast Cancer,BRCA2,gs://med-img/P002_mammo.png
+P003,Ravi Patel,63,Male,Ahmedabad,India,Lung Cancer,EGFR,gs://med-img/P003_ct.png
+P004,James Brown,57,Male,New York,USA,Colorectal Cancer,KRAS,gs://med-img/P004_colon.png
+P005,Robert Green,66,Male,Boston,USA,Prostate Cancer,None,gs://med-img/P005_mri.png
+P006,Neha Mehta,59,Female,Pune,India,Breast Cancer,HER2,gs://med-img/P006_ultrasound.png
+P007,Sonia Arora,61,Female,Chandigarh,India,Pancreatic Cancer,None,gs://med-img/P007_ct.png
+P008,Liam Johnson,70,Male,San Francisco,USA,Lung Cancer,ALK,gs://med-img/P008_pet.png
+P009,Sophia Lee,58,Female,Seoul,South Korea,Ovarian Cancer,BRCA1,gs://med-img/P009_ultrasound.png
+P010,Alan Smith,45,Male,London,UK,Glioblastoma,IDH1,gs://med-img/P010_mri.png
+P011,Priya Nair,47,Female,Bangalore,India,Breast Cancer,BRCA2,gs://med-img/P011_mammo.png
+P012,Maria Garcia,55,Female,Madrid,Spain,Colorectal Cancer,BRAF,gs://med-img/P012_colon.png
+P013,Akash Yadav,60,Male,Lucknow,India,Lung Cancer,EGFR,gs://med-img/P013_ct.png
+P014,Daniel White,67,Male,Chicago,USA,Prostate Cancer,None,gs://med-img/P014_mri.png
+P015,Rahul Khanna,53,Male,Hyderabad,India,Head and Neck Cancer,None,gs://med-img/P015_ct.png
+P016,Meena Joshi,49,Female,Indore,India,Breast Cancer,HER2+,gs://med-img/P016_mammo.png
+P017,Patrick Lee,64,Male,Sydney,Australia,Pancreatic Cancer,KRAS,gs://med-img/P017_ct.png
+P018,Rajiv Saxena,62,Male,Nagpur,India,Liver Cancer,TP53,gs://med-img/P018_ultrasound.png
+P019,Aarav Jain,58,Male,Jaipur,India,Lung Cancer,PD-L1,gs://med-img/P019_ct.png
+P020,Emily Wang,54,Female,Beijing,China,Melanoma,BRAF,gs://med-img/P020_skin.png
+P021,Olivia Martinez,46,Female,Mexico City,Mexico,Esophageal Cancer,None,gs://med-img/P021_ct.png
+P022,Divya Kapoor,51,Female,Patna,India,Cervical Cancer,HPV16,gs://med-img/P022_mri.png
+P023,Steve Rogers,39,Male,Houston,USA,Leukemia (AML),FLT3,gs://med-img/P023_blood.png
+P024,Sneha Iyer,56,Female,Chennai,India,Multiple Myeloma,None,gs://med-img/P024_marrow.png
+P025,Arjun Das,65,Male,Kolkata,India,Bladder Cancer,FGFR3,gs://med-img/P025_mri.png
+

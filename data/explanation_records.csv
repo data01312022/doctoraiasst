@@ -1,0 +1,26 @@
+patient_id,diagnosis,stage,genetic_variants,treatment_plan,doctor_notes,imaging_path,last_updated
+P023,Leukemia (AML),Induction,FLT3,7+3 induction therapy with FLT3 inhibitor.,Rapidly progressing. High WBC count.,gs://med-img/P023_blood.png,2025-06-19 14:23:42.654327 UTC
+P011,Breast Cancer,Stage 0,BRCA2,Lumpectomy or mastectomy. Hormone therapy if ER+.,"DCIS, non-invasive. Good prognosis.",gs://med-img/P011_mammo.png,2025-06-19 14:23:42.654327 UTC
+P024,Multiple Myeloma,Stage I,None,Lenalidomide + dexamethasone.,Stable M-protein levels.,gs://med-img/P024_marrow.png,2025-06-19 14:23:42.654327 UTC
+P013,Lung Cancer,Stage I,EGFR,Lobectomy recommended. SBRT if inoperable.,Smoker with isolated tumor. EGFR+ detected.,gs://med-img/P013_ct.png,2025-06-19 14:23:42.654327 UTC
+P001,Breast Cancer,Stage I,BRCA1,Lumpectomy and radiation. Hormone therapy if ER+.,"Early detection, favorable prognosis.",gs://med-img/P001_mammo.png,2025-06-19 14:23:42.654327 UTC
+P005,Prostate Cancer,Stage I,None,Active surveillance or low-dose radiation.,PSA stable. Low Gleason score.,gs://med-img/P005_mri.png,2025-06-19 14:23:42.654327 UTC
+P002,Breast Cancer,Stage II,BRCA2,Chemotherapy followed by radiation. Trastuzumab for HER2+.,Node involvement present.,gs://med-img/P002_mammo.png,2025-06-19 14:23:42.654327 UTC
+P025,Bladder Cancer,Stage II,FGFR3,Radical cystectomy or chemo-radiation.,FGFR3 mutation actionable.,gs://med-img/P025_mri.png,2025-06-19 14:23:42.654327 UTC
+P004,Colorectal Cancer,Stage II,KRAS,Surgical resection. Consider adjuvant chemo.,KRAS mutation detected. No lymph nodes involved.,gs://med-img/P004_colon.png,2025-06-19 14:23:42.654327 UTC
+P021,Esophageal Cancer,Stage II,None,Neoadjuvant chemoradiation + surgery.,Patient symptomatic. Dysphagia stage II.,gs://med-img/P021_ct.png,2025-06-19 14:23:42.654327 UTC
+P018,Liver Cancer,Stage II,TP53,Surgery or TACE. Sorafenib if unresectable.,Chronic Hepatitis B background.,gs://med-img/P018_ultrasound.png,2025-06-19 14:23:42.654327 UTC
+P014,Prostate Cancer,Stage II,None,Radical prostatectomy or radiation therapy.,"High Gleason score, no metastasis yet.",gs://med-img/P014_mri.png,2025-06-19 14:23:42.654327 UTC
+P007,Pancreatic Cancer,Stage IIA,None,Surgery followed by gemcitabine-based chemo.,"Tumor resectable, borderline vascular contact.",gs://med-img/P007_ct.png,2025-06-19 14:23:42.654327 UTC
+P022,Cervical Cancer,Stage IIB,HPV16,Concurrent chemoradiation with cisplatin.,Tumor invasion into parametrium.,gs://med-img/P022_mri.png,2025-06-19 14:23:42.654327 UTC
+P009,Ovarian Cancer,Stage III,BRCA1,Cytoreductive surgery + chemo (carbo/paclitaxel).,Responding well to neoadjuvant chemo.,gs://med-img/P009_ultrasound.png,2025-06-19 14:23:42.654327 UTC
+P012,Colorectal Cancer,Stage III,BRAF,Surgery followed by FOLFOX chemo.,BRAF mutation. Consider EGFR inhibitors.,gs://med-img/P012_colon.png,2025-06-19 14:23:42.654327 UTC
+P017,Pancreatic Cancer,Stage III,KRAS,FOLFIRINOX chemo. Not resectable.,Vascular encasement present.,gs://med-img/P017_ct.png,2025-06-19 14:23:42.654327 UTC
+P015,Head and Neck Cancer,Stage III,None,Surgical resection followed by radiation.,Involvement of adjacent lymph nodes.,gs://med-img/P015_ct.png,2025-06-19 14:23:42.654327 UTC
+P020,Melanoma,Stage III,BRAF,Surgery + checkpoint inhibitors (nivolumab).,"Wide excision done, positive sentinel node.",gs://med-img/P020_skin.png,2025-06-19 14:23:42.654327 UTC
+P006,Breast Cancer,Stage III,HER2,Neoadjuvant chemotherapy then surgery.,"Large tumor, HER2 positive.",gs://med-img/P006_ultrasound.png,2025-06-19 14:23:42.654327 UTC
+P003,Lung Cancer,Stage IIIA,EGFR,Concurrent chemoradiation. EGFR inhibitor post-op.,"Nonsmoker, EGFR mutation positive.",gs://med-img/P003_ct.png,2025-06-19 14:23:42.654327 UTC
+P016,Breast Cancer,Stage IIIB,HER2+,Neoadjuvant chemo + mastectomy.,Locally advanced with skin involvement.,gs://med-img/P016_mammo.png,2025-06-19 14:23:42.654327 UTC
+P019,Lung Cancer,Stage IIIB,PD-L1,Chemoradiation followed by Durvalumab.,Tumor has high PD-L1 expression.,gs://med-img/P019_ct.png,2025-06-19 14:23:42.654327 UTC
+P008,Lung Cancer,Stage IV,ALK,Alectinib or Crizotinib (ALK inhibitor).,Multiple metastases. Targeted therapy eligible.,gs://med-img/P008_pet.png,2025-06-19 14:23:42.654327 UTC
+P010,Glioblastoma,Stage IV,IDH1,"Surgery, radiation and temozolomide (Stupp protocol).",Rapid growth. Good resection margin expected.,gs://med-img/P010_mri.png,2025-06-19 14:23:42.654327 UTC
